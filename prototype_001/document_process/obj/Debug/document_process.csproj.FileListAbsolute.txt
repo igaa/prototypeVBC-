@@ -1,0 +1,13 @@
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\Resources\template1.docx
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\document_process.dll
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\document_process.pdb
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\DataTransaction.dll
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\AppConfig.dll
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\DataTransaction.pdb
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\AppConfig.pdb
+G:\workspace-igga\Prototype01\prototype_001\document_process\bin\Debug\AppConfig.xml
+G:\workspace-igga\Prototype01\prototype_001\document_process\obj\Debug\document_process.csprojResolveAssemblyReference.cache
+G:\workspace-igga\Prototype01\prototype_001\document_process\obj\Debug\document_process.Properties.Resources.resources
+G:\workspace-igga\Prototype01\prototype_001\document_process\obj\Debug\document_process.csproj.GenerateResource.Cache
+G:\workspace-igga\Prototype01\prototype_001\document_process\obj\Debug\document_process.dll
+G:\workspace-igga\Prototype01\prototype_001\document_process\obj\Debug\document_process.pdb

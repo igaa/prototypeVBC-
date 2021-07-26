@@ -1,0 +1,8 @@
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\bin\Debug\DataTransaction.dll
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\bin\Debug\DataTransaction.pdb
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\bin\Debug\AppConfig.dll
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\bin\Debug\AppConfig.pdb
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\bin\Debug\AppConfig.xml
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\obj\Debug\DataTransaction.csprojResolveAssemblyReference.cache
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\obj\Debug\DataTransaction.dll
+G:\workspace-igga\Prototype01\prototype_001\DataTransaction\obj\Debug\DataTransaction.pdb

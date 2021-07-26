@@ -1,0 +1,8 @@
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\bin\Debug\AppConfig.dll
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\bin\Debug\AppConfig.pdb
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\bin\Debug\AppConfig.xml
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\obj\Debug\AppConfig.Resources.resources
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\obj\Debug\AppConfig.vbproj.GenerateResource.Cache
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\obj\Debug\AppConfig.dll
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\obj\Debug\AppConfig.xml
+G:\workspace-igga\Prototype01\prototype_001\AppConfig\obj\Debug\AppConfig.pdb

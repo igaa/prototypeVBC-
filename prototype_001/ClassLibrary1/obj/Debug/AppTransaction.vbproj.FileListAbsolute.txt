@@ -1,0 +1,8 @@
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\obj\Debug\AppTransaction.vbproj.GenerateResource.Cache
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+G:\workspace-igga\Prototype01\prototype_001\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
